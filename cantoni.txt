@@ -1,0 +1,19 @@
+{
+	"prodotti : [
+
+{
+	"nome : "prodotto1",
+	"nome : "Descrizione del prodotto 1"
+}
+
+{
+	"nome : "prodotto2",
+	"nome : "Descrizione del prodotto 2"
+}
+
+{
+	"nome : "prodotto3",
+	"nome : "Descrizione del prodotto 3"
+}
+
+}
