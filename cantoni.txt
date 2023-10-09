@@ -15,5 +15,5 @@
 	"nome : "prodotto3",
 	"nome : "Descrizione del prodotto 3"
 }
-
+]
 }
